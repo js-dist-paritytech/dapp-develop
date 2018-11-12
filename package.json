@@ -1,7 +1,7 @@
 {
   "name": "@parity/dapp-develop",
   "description": "Dapp Develop",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "src/index.js",
   "author": "Parity Team <admin@parity.io>",
   "maintainers": [],
@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@parity/api": "~2.1.24",
-    "@parity/shared": "~3.0.1",
+    "@parity/shared": "~3.0.2",
     "@parity/ui": "~3.1.17",
     "@parity/etherscan": "2.1.x",
     "html-loader": "0.5.5",
