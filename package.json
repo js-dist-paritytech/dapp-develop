@@ -1,7 +1,7 @@
 {
   "name": "@parity/dapp-develop",
   "description": "Dapp Develop",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "main": "src/index.js",
   "author": "Parity Team <admin@parity.io>",
   "maintainers": [],
@@ -31,7 +31,7 @@
     }
   },
   "dependencies": {
-    "@parity/api": "~3.0.8",
+    "@parity/api": "~3.0.9",
     "@parity/shared": "~3.0.2",
     "@parity/ui": "~3.1.18",
     "@parity/etherscan": "2.1.x",
@@ -39,7 +39,7 @@
     "html-webpack-plugin": "3.2.0",
     "lodash": "^4.17.11",
     "mobx": "^5.7.0",
-    "mobx-react": "^5.4.2",
+    "mobx-react": "^5.4.3",
     "parity-react-app": "^0.14.0",
     "raw-loader": "^0.5.1",
     "react": "^16.6.3",
