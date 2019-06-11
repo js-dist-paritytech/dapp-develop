@@ -1,7 +1,7 @@
 {
   "name": "@parity/dapp-develop",
   "description": "Dapp Develop",
-  "version": "1.0.52",
+  "version": "1.0.53",
   "main": "src/index.js",
   "author": "Parity Team <admin@parity.io>",
   "maintainers": [],
@@ -38,19 +38,19 @@
     "html-loader": "0.5.5",
     "html-webpack-plugin": "3.2.0",
     "lodash": "^4.17.11",
-    "mobx": "^5.10.0",
+    "mobx": "^5.10.1",
     "mobx-react": "^5.4.4",
     "parity-react-app": "^0.14.0",
     "raw-loader": "^0.5.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-redux": "^7.0.3",
+    "react-redux": "^7.1.0",
     "react-router-redux": "^4.0.8",
     "react-tap-event-plugin": "^3.0.2",
     "react-tooltip": "3.10.0",
     "semantic-ui-react": "^0.87.1",
     "solc": "github:ngotchac/solc-js",
     "webpack": "3.12.0",
-    "webpack-dev-server": "3.5.1"
+    "webpack-dev-server": "3.7.1"
   }
 }
