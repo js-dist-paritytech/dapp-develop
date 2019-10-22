@@ -3,7 +3,7 @@
     "name": "Develop Contracts",
     "description": "Watch, develop and deploy contracts",
     "author": "Parity Team <admin@parity.io>",
-    "version": " 1.0.74",
+    "version": " 1.0.75",
     "iconUrl": "icon.png",
     "localUrl": "http://localhost:3001",
     "allowJsEval": true
