@@ -1,7 +1,7 @@
 {
   "name": "@parity/dapp-develop",
   "description": "Dapp Develop",
-  "version": "1.0.93",
+  "version": "1.0.94",
   "main": "src/index.js",
   "author": "Parity Team <admin@parity.io>",
   "maintainers": [],
@@ -47,7 +47,7 @@
     "react-redux": "^7.2.0",
     "react-router-redux": "^4.0.8",
     "react-tap-event-plugin": "^3.0.2",
-    "react-tooltip": "4.0.3",
+    "react-tooltip": "4.0.5",
     "semantic-ui-react": "^0.88.2",
     "solc": "github:ngotchac/solc-js",
     "webpack": "3.12.0",
